@@ -22,13 +22,26 @@ body {
   border-radius: 30px;
 }
 
+
+
+.card1
+{
+  background-image: url('assets/CardTop2.png')
+
+}
+
+.text-wrapper
+{
+  margin-left: 10px;
+}
+
 h1{
   margin-bottom: 0px;
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 600;
-  text-align: center;
-  font-size: 50px;
-  position: relative; top: 40px;
+  text-align: left;
+  font-size: 28px;
+  position: relative; top: 260px;
   color: #27a59c;
 }
 
@@ -37,19 +50,34 @@ h2{
   padding-top: 0px;
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 200;
-  text-align: center;
-  position: relative; top: 40px;
-  color: #027691;
+  font-size: 18px;
+  text-align: left;
+  position: relative; top: 265px;
+  color: black
 } 
 
 h3{
   margin-top: 0px;
   padding-top: 0px;
   font-family: 'Kumbh Sans', sans-serif;
-  font-weight: 400;
-  text-align: center;
-  position: relative; top: 214px;
+  font-weight: 200;
+  font-size: 18px;
+  text-align: left;
+  position: relative; top: 265px;
+  color: black;
 }
+
+h4{
+  margin-top: 0px;
+  padding-top: 0px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+  text-align: left;
+  position: relative; top: 265px;
+  color: black;
+}
+
 
 a:link, a:visited {
   color: #0b8577;
