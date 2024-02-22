@@ -8,7 +8,7 @@
 
 body {
     background-color: gray;
-    background-image: url('assets/background.jpg');
+    background-image: url('assets/background.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -42,6 +42,7 @@ h1{
   font-family: "Macondo Swash Caps";
   text-align: left;
   font-size: 28px;
+  text-indent: 5px;
   position: relative; top: 260px;
   color: 292019;
 }
